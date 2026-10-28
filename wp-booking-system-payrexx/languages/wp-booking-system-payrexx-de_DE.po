@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking System - Payrexx 1.0.0\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: wp-booking-system-payrexx\n"
+
+msgid "Give the customer the option to pay with TWINT, credit cards, PostFinance and the other payment methods supported by Payrexx."
+msgstr "Ermöglichen Sie Ihren Gästen die Zahlung mit TWINT, Kreditkarte, PostFinance und den weiteren Zahlungsmitteln von Payrexx."
+
+msgid "Please add your Payrexx instance name and API secret in the plugin's Settings Page."
+msgstr "Bitte hinterlegen Sie den Payrexx-Instanznamen und das API-Secret in den Einstellungen des Plugins."
+
+msgid "The payment method description that appears on the booking form."
+msgstr "Die Beschreibung der Zahlungsart, die im Buchungsformular angezeigt wird."
+
+msgid "The payment method name that appears on the booking form."
+msgstr "Der Name der Zahlungsart, der im Buchungsformular angezeigt wird."
+
+msgid "API Credentials"
+msgstr "API-Zugangsdaten"
+
+msgid "API Secret"
+msgstr "API-Secret"
+
+msgid "Add this URL in your Payrexx admin under Webhooks so bookings are confirmed even if the customer closes the browser after paying."
+msgstr "Tragen Sie diese URL im Payrexx-Admin unter „Webhooks“ ein, damit Buchungen auch dann bestätigt werden, wenn der Gast den Browser nach der Zahlung schließt."
+
+msgid "An error occurred during the payment."
+msgstr "Bei der Zahlung ist ein Fehler aufgetreten."
+
+msgid "Charge"
+msgstr "Zahlung"
+
+msgid "Deposit"
+msgstr "Anzahlung"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Display name"
+msgstr "Anzeigename"
+
+msgid "Enable Payrexx"
+msgstr "Payrexx aktivieren"
+
+msgid "Final Payment"
+msgstr "Restzahlung"
+
+msgid "Gateway"
+msgstr "Gateway"
+
+msgid "Instance name"
+msgstr "Instanzname"
+
+msgid "Invoice Item Name"
+msgstr "Bezeichnung auf der Rechnung"
+
+msgid "No booking found."
+msgstr "Keine Buchung gefunden."
+
+msgid "No message provided."
+msgstr "Keine Begründung angegeben."
+
+msgid "Pay now with Payrexx"
+msgstr "Jetzt mit Payrexx bezahlen"
+
+msgid "Pay with TWINT, credit card or PostFinance via Payrexx."
+msgstr "Bezahlen Sie mit TWINT, Kreditkarte oder PostFinance über Payrexx."
+
+msgid "Payment failed: "
+msgstr "Zahlung fehlgeschlagen: "
+
+msgid "Payment not found in the database."
+msgstr "Zahlung nicht in der Datenbank gefunden."
+
+msgid "Payrexx"
+msgstr "Payrexx"
+
+msgid "The booking currency is set to %s. Make sure your Payrexx instance accepts this currency, or switch the currency to CHF."
+msgstr "Als Buchungswährung ist %s eingestellt. Stellen Sie sicher, dass Ihre Payrexx-Instanz diese Währung akzeptiert, oder stellen Sie die Währung auf CHF um."
+
+msgid "The name of the product that appears on the Payrexx invoice. Eg. \"Booking at Hotel Alpenblick.\""
+msgstr "Die Bezeichnung, die auf der Payrexx-Rechnung erscheint, z. B. „Buchung Hotel Alpenblick“."
+
+msgid "The part before .payrexx.com, e.g. \"meinhotel\" for meinhotel.payrexx.com."
+msgstr "Der Teil vor .payrexx.com, z. B. „meinhotel“ für meinhotel.payrexx.com."
+
+msgid "The payment expired."
+msgstr "Die Zahlung ist abgelaufen."
+
+msgid "The payment failed. Your booking has not been made, please try again."
+msgstr "Die Zahlung ist fehlgeschlagen. Ihre Buchung wurde nicht ausgeführt, bitte versuchen Sie es erneut."
+
+msgid "The payment was cancelled. Your booking has not been made, please try again."
+msgstr "Die Zahlung wurde abgebrochen. Ihre Buchung wurde nicht ausgeführt, bitte versuchen Sie es erneut."
+
+msgid "The payment was cancelled."
+msgstr "Die Zahlung wurde abgebrochen."
+
+msgid "The payment was declined."
+msgstr "Die Zahlung wurde abgelehnt."
+
+msgid "Transaction"
+msgstr "Transaktion"
+
+msgid "Webhook URL"
+msgstr "Webhook-URL"
+
+msgid "You find the API secret in your Payrexx admin under <strong>Integrations &rarr; API &amp; Plugins</strong>. Payrexx test mode is switched on per payment provider in the Payrexx admin."
+msgstr "Das API-Secret finden Sie im Payrexx-Admin unter <strong>Integrationen &rarr; API &amp; Plugins</strong>. Der Testmodus wird bei Payrexx pro Zahlungsanbieter im Payrexx-Admin aktiviert."
+
+msgid "You will be redirected to the secure Payrexx payment page."
+msgstr "Sie werden zur sicheren Zahlungsseite von Payrexx weitergeleitet."
